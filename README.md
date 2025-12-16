@@ -93,9 +93,8 @@ Contoh placeholder :
 
 ![Homepage example](docs/screenshots/homepage.png)
 ![Dashboard example](docs/screenshots/dashboard.png)
-![Notes list example](docs/screenshots/notes_index.png)
 ![Create note example](docs/screenshots/notes_create.png)
-
+![Notes list example](docs/screenshots/notes_index.png)
 
 ## Cara Menjalankan Singkat (Local)
 
